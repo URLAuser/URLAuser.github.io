@@ -1,0 +1,21 @@
+
+    body { margin: 0; background: #c5c4c4; }
+    #wrapper { display: flex; flex-wrap: wrap; gap: 10px; padding: 10px; }
+    .container {display: flex;flex-direction: column;height: 300px; }
+.bottom-item { font-family: Arial, Helvetica, sans-serif; margin-top: auto;font-size: 600%; color:#474747;}
+.star{font-family: Arial, Helvetica, sans-serif;font-size: 150%; color:#ec650b;}
+.bottommer{font-family: Arial, Helvetica, sans-serif; font-size: 100%;color:#474747; margin-left: 85px; margin-top: 30px;}
+  .b{font-weight: bold ;}
+
+  .container2 {
+    display: flex;
+    flex-direction: row;
+    width: 600px; 
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 85px; 
+    margin-top: 30px;
+}
+
+a{
+    margin-right: 50px;
+}
